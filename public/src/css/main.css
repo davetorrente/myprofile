@@ -1,0 +1,33 @@
+body, html {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+.navbar-nav > li > a.nav-item-child {
+    color: green;
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 55px;
+    padding: 20px;
+
+    display: block;
+
+}
+.navbar {
+    border: 1px solid transparent;
+    min-height: 50px;
+    position: relative;
+}
+
+.navbar-fixed-top {
+    margin-bottom:0;
+    /*border-bottom-color: red;*/
+    border-bottom:1px solid rgba(255,255,255,.0);
+}
+
+.new-post {
+    padding-top: 16px !important;
+}
+
+
