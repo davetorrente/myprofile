@@ -13,17 +13,18 @@
 
 </head>
 <body>
-    @include('includes.header')
-    <div class="container">
+    <div class="container-fluid" id="mainDiv">
+        @include('includes.header')
         @yield('content')
-    </div>
 
+    </div>
+    @include('includes.footer')
     <script type="text/javascript" src="{{URL::to('src/js/jquery-3.1.2.min.js')}}"></script>
     <script type="text/javascript" src="{{URL::to('src/js/bootstrap.min.js')}}"></script>
 
     <script type="text/javascript" src="{{URL::to('src/js/jquery-migrate-3.0.min.js')}}"></script>
     <script type="text/javascript" src="{{URL::to('src/js/main.js')}}"></script>
-    @include('includes.footer')
+
 </body>
 
 
