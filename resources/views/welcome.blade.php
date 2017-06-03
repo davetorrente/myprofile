@@ -193,7 +193,7 @@
                                     <a href="javascript:void(0);" class="work-popup-close">Hide</a>
                                     <div class="margin-b-30">
                                         <h3 class="margin-b-5">ThesisIT</h3>
-                                        <span>Website of Theses for 5th year CPE students in PUP</span>
+                                        <span>A Website for 5th year CPE students' Theses in PUP</span>
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
