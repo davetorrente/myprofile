@@ -192,27 +192,23 @@
                                 <div class="work-popup-content">
                                     <a href="javascript:void(0);" class="work-popup-close">Hide</a>
                                     <div class="margin-b-30">
-                                        <h3 class="margin-b-5">Art Of Coding</h3>
-                                        <span>Clean &amp; Minimalistic Design</span>
+                                        <h3 class="margin-b-5">ThesisIT</h3>
+                                        <span>Website of Theses for 5th year CPE students in PUP</span>
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-                                                <ul class="list-inline work-popup-tag">
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Design,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Coding,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Portfolio</a></li>
-                                                </ul>
+                                                <p>We built a website using Node JS, Express JS, REST, Jquery and MongoDB for the database. This website serves as the storage and referral to all the theses of 5<sup>th</sup> year students in Polytechnic University of the Philippines.</p>
+                                                <p>Our theses collection consist of 96 entries.</p>
+
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p class="margin-b-5"><strong>Project Leader:</strong> John Doe</p>
-                                                <p class="margin-b-5"><strong>Designer:</strong> Alisa Keys</p>
-                                                <p class="margin-b-5"><strong>Developer:</strong> Mark Doe</p>
-                                                <p class="margin-b-5"><strong>Customer:</strong> Keenthemes</p>
+                                                <p class="margin-b-5"><strong>Project Leader:</strong> Francesca Villasanta</p>
+                                                <p class="margin-b-5"><strong>Designers:</strong> Francesca Villasanta &amp; Dave Torrente</p>
+                                                <p class="margin-b-5"><strong>Developers:</strong> Francesca Villasanta &amp; Dave Torrente</p>
+                                                <p class="margin-b-5"><strong>Client:</strong> Professor Tria</p>
                                             </div>
                                         </div>
                                     </div>
@@ -231,27 +227,23 @@
                                 <div class="work-popup-content">
                                     <a href="javascript:void(0);" class="work-popup-close">Hide</a>
                                     <div class="margin-b-30">
-                                        <h3 class="margin-b-5">Art Of Coding</h3>
-                                        <span>Clean &amp; Minimalistic Design</span>
+                                        <h3 class="margin-b-5">Our team's profile</h3>
+                                        <span>Our team consists of two members: <br/> Francesca Villasanta and Me (Dave Torrente)</span>
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-                                                <ul class="list-inline work-popup-tag">
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Design,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Coding,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Portfolio</a></li>
-                                                </ul>
+                                                <p>Our team's profile consists of our personal webpages. We're also so called the 'Evil Geniuses' as an alias for our team because neither of us are evil nor geniuses.  </p>
+                                                <p>This is our first module using bulma framework, Node JS and Express JS.</p>
+
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p class="margin-b-5"><strong>Project Leader:</strong> John Doe</p>
-                                                <p class="margin-b-5"><strong>Designer:</strong> Alisa Keys</p>
-                                                <p class="margin-b-5"><strong>Developer:</strong> Mark Doe</p>
-                                                <p class="margin-b-5"><strong>Customer:</strong> Keenthemes</p>
+                                                <p class="margin-b-5"><strong>Project Leader:</strong> Francesca Villasanta</p>
+                                                <p class="margin-b-5"><strong>Designers:</strong> Francesca Villasanta &amp; Dave Torrente</p>
+                                                <p class="margin-b-5"><strong>Developers:</strong> Francesca Villasanta &amp; Dave Torrente</p>
+                                                <p class="margin-b-5"><strong>Client:</strong> Professor Tria</p>
                                             </div>
                                         </div>
                                     </div>
@@ -270,27 +262,58 @@
                                 <div class="work-popup-content">
                                     <a href="javascript:void(0);" class="work-popup-close">Hide</a>
                                     <div class="margin-b-30">
-                                        <h3 class="margin-b-5">Art Of Coding</h3>
-                                        <span>Clean &amp; Minimalistic Design</span>
+                                        <h3 class="margin-b-5">Simple Web Services</h3>
+                                        <span>It is just a basic web service</span>
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-                                                <ul class="list-inline work-popup-tag">
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Design,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Coding,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Portfolio</a></li>
-                                                </ul>
+                                                <p>WE PLAY MUSIC is our second module which we will build a simple service about Music.</p>
+                                                <p>Our services offered: Live Band, Live DJ and Production. It's just for viewing and no transaction.</p>
+
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p class="margin-b-5"><strong>Project Leader:</strong> John Doe</p>
-                                                <p class="margin-b-5"><strong>Designer:</strong> Alisa Keys</p>
-                                                <p class="margin-b-5"><strong>Developer:</strong> Mark Doe</p>
-                                                <p class="margin-b-5"><strong>Customer:</strong> Keenthemes</p>
+                                                <p class="margin-b-5"><strong>Project Leader:</strong> Francesca Villasanta</p>
+                                                <p class="margin-b-5"><strong>Designers:</strong> Francesca Villasanta &amp; Dave Torrente</p>
+                                                <p class="margin-b-5"><strong>Developers:</strong> Francesca Villasanta &amp; Dave Torrente</p>
+                                                <p class="margin-b-5"><strong>Client:</strong> Professor Tria</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Work -->
+                    </div>
+                    <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4 md-margin-b-4">
+                        <!-- Work -->
+                        <div class="work work-popup-trigger">
+                            <div class="work-overlay">
+                                <img class="full-width img-responsive" src="{{URL::to('src/img/397x300/todo.png')}}" alt="Portfolio Image">
+                            </div>
+                            <div class="work-popup-overlay">
+                                <div class="work-popup-content">
+                                    <a href="javascript:void(0);" class="work-popup-close">Hide</a>
+                                    <div class="margin-b-30">
+                                        <h3 class="margin-b-5">Todo App</h3>
+                                        <span>It is a simple Todo App built in React Redux</span>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
+                                            <div class="margin-t-10 sm-margin-t-0">
+                                                <p>You can organize things by using this todo app deployed in heroku.</p>
+                                                <p>This project is made using Express JS, React Redux and MongoDB for the database.</p>
+
+                                            </div>
+                                        </div>
+                                        <div class="col-sm-4">
+                                            <div class="margin-t-10 sm-margin-t-0">
+                                                <p class="margin-b-5"><strong>Project Leader:</strong> Dave Torrente</p>
+                                                <p class="margin-b-5"><strong>Designers:</strong> Francesca Villasanta &amp; Dave Torrente</p>
+                                                <p class="margin-b-5"><strong>Developers:</strong> Dave Torrente</p>
+                                                <p class="margin-b-5"><strong>Client:</strong> Professor Tria</p>
                                             </div>
                                         </div>
                                     </div>
@@ -309,66 +332,23 @@
                                 <div class="work-popup-content">
                                     <a href="javascript:void(0);" class="work-popup-close">Hide</a>
                                     <div class="margin-b-30">
-                                        <h3 class="margin-b-5">Art Of Coding</h3>
-                                        <span>Clean &amp; Minimalistic Design</span>
+                                        <h3 class="margin-b-5">Simple Web Services</h3>
+                                        <span>It is just a basic web service</span>
                                     </div>
                                     <div class="row">
                                         <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-                                                <ul class="list-inline work-popup-tag">
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Design,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Coding,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Portfolio</a></li>
-                                                </ul>
+                                                <p>WE PLAY MUSIC is our second module which we will build a simple service about Music.</p>
+                                                <p>Our services offered: Live Band, Live DJ and Production. It's just for viewing and no transaction.</p>
+
                                             </div>
                                         </div>
                                         <div class="col-sm-4">
                                             <div class="margin-t-10 sm-margin-t-0">
-                                                <p class="margin-b-5"><strong>Project Leader:</strong> John Doe</p>
-                                                <p class="margin-b-5"><strong>Designer:</strong> Alisa Keys</p>
-                                                <p class="margin-b-5"><strong>Developer:</strong> Mark Doe</p>
-                                                <p class="margin-b-5"><strong>Customer:</strong> Keenthemes</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Work -->
-                    </div>
-                    <div class="masonry-grid-item col-xs-12 col-sm-6 col-md-4">
-                        <!-- Work -->
-                        <div class="work work-popup-trigger">
-                            <div class="work-overlay">
-                                <img class="full-width img-responsive" src="{{URL::to('src/img/397x300/todo.png')}}" alt="Portfolio Image">
-                            </div>
-                            <div class="work-popup-overlay">
-                                <div class="work-popup-content">
-                                    <a href="javascript:void(0);" class="work-popup-close">Hide</a>
-                                    <div class="margin-b-30">
-                                        <h3 class="margin-b-5">Art Of Coding</h3>
-                                        <span>Clean &amp; Minimalistic Design</span>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-sm-8 work-popup-content-divider sm-margin-b-20">
-                                            <div class="margin-t-10 sm-margin-t-0">
-                                                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.</p>
-                                                <ul class="list-inline work-popup-tag">
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Design,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Coding,</a></li>
-                                                    <li class="work-popup-tag-item"><a class="work-popup-tag-link" href="#">Portfolio</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <div class="margin-t-10 sm-margin-t-0">
-                                                <p class="margin-b-5"><strong>Project Leader:</strong> John Doe</p>
-                                                <p class="margin-b-5"><strong>Designer:</strong> Alisa Keys</p>
-                                                <p class="margin-b-5"><strong>Developer:</strong> Mark Doe</p>
-                                                <p class="margin-b-5"><strong>Customer:</strong> Keenthemes</p>
+                                                <p class="margin-b-5"><strong>Project Leader:</strong> Francesca Villasanta</p>
+                                                <p class="margin-b-5"><strong>Designers:</strong> Francesca Villasanta &amp; Dave Torrente</p>
+                                                <p class="margin-b-5"><strong>Developers:</strong> Francesca Villasanta &amp; Dave Torrente</p>
+                                                <p class="margin-b-5"><strong>Client:</strong> Professor Tria</p>
                                             </div>
                                         </div>
                                     </div>
