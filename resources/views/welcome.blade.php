@@ -8,7 +8,7 @@
             <div class="col-sm-6">
                 <div class="promo-block-divider">
                     <h1 class="promo-block-title">Dave <br/> Torrente</h1>
-                    <p class="promo-block-text">Web Developer &amp; Cute</p>
+                    <p class="promo-block-text">Web Developer</p>
                 </div>
                 <ul class="list-inline">
                     <li><a href="#" class="social-icons"><i class="icon-social-facebook"></i></a></li>
