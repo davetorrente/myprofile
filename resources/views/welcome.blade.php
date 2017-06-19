@@ -131,7 +131,7 @@
                                     <h3>HTML5/CSS3</h3>
                                     <p class="margin-b-5">Building different projects involve HTML5 &amp CSS3 in my OJT and in school</p>
                                 </div>
-                                <a href="#" class="content-wrapper-link"></a>
+                                {{--<a href="#" class="content-wrapper-link"></a>--}}
                             </div>
                         </div>
                         <div class="col-md-4 md-margin-b-4">
@@ -381,15 +381,15 @@
                     <div class="row">
                         <div class="col-md-3 col-xs-6 md-margin-b-30">
                             <h5>Location</h5>
-                            <a href="#">Bulacan, Philippines</a>
+                            <a>Bulacan, Philippines</a>
                         </div>
                         <div class="col-md-3 col-xs-6 md-margin-b-30">
                             <h5>Phone</h5>
-                            <a href="#">+69 919 344 55 60</a>
+                            <a>+69 917 643 04 39</a>
                         </div>
                         <div class="col-md-3 col-xs-6">
                             <h5>Email</h5>
-                            <a href="mailto:#">dave.torrente@gmail.com</a>
+                            <a>dave.torrente@gmail.com</a>
                         </div>
 
                     </div>
